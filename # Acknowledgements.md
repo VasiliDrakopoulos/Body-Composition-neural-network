@@ -10,8 +10,7 @@ This project, **Body Composition Neural Network**, would not have been possible 
   - Pandas
   - Matplotlib
   - Scikit-learn
-- Data was collected and processed using [Data source or collaborators, if any].
-
+  - 
 We gratefully acknowledge the contributions for training data from:
 Andrews Lab members-Monash University
 Gideon Kang-Febbraio Lab-Monash University
